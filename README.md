@@ -9,6 +9,10 @@
 <img width="299" height="650" alt="image" src="https://github.com/user-attachments/assets/3d7cfff6-3c73-4f0e-ad2c-da87f807ba40" />
 <img width="295" height="655" alt="image" src="https://github.com/user-attachments/assets/4e8d4b7d-97e9-4015-8697-9e4712d28c67" />
 
+## 🚀 Features
+- get Name pationt
+- View the detals and the calc Bmi 
+- give the result by Api  
 
 ## Getting Started
 
