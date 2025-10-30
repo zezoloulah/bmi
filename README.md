@@ -1,7 +1,7 @@
 # bmi
 
-##BMI Calculator
-#A Flutter application for calculating Body Mass Index (BMI) with a clean and user-friendly interface. This app allows users to input their gender, height, and weight to calculate their BMI and view detailed results.
+## BMI Calculator
+# A Flutter application for calculating Body Mass Index (BMI) with a clean and user-friendly interface. This app allows users to input their gender, height, and weight to calculate their BMI and view detailed results.
 
 ##Screens shot
  #calc Screen
